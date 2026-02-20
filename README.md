@@ -20,4 +20,4 @@ The app shows: "Hi, my name is Pranathi!"
 Pranathi Bhat
 ## App Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](greetingcard_output.png)
