@@ -1,4 +1,4 @@
-# greetingcard
+
 package com.example.greetingcard
 
 import android.os.Bundle
