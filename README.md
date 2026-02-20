@@ -18,3 +18,6 @@ The app shows: "Hi, my name is Pranathi!"
 
 ## Author
 Pranathi Bhat
+## App Screenshot
+
+![App Screenshot](screenshot.png)
